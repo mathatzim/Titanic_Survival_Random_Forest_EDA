@@ -8,7 +8,7 @@ It includes:
 - The original coursework presentation (`docs/Presentation1.pptx`) and a Colab link
 
 ## Dataset
-- Source: Kaggle Titanic `train.csv` (891 rows, 12 columns)
+- Source: Kaggle Titanic `TitanicSurvival.xlsx` (891 rows, 12 columns)
 - Target: `Survived` (1 = survived, 0 = not survived)
 
 ### Features used for modeling
