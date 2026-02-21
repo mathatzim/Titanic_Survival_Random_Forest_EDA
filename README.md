@@ -33,6 +33,9 @@ Train/Test split: 90% / 10% (random_state=42)
 ### Install
 ```bash
 pip install -r requirements.txt
+python -m src.part_a_forecasting
+python -m src.part_b_optimization
+python -m src.part_c_forecast_to_decision
 ```
 
 ### Train + evaluate
